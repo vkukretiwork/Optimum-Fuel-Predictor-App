@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Optimum Fuel Predictor</string>
+    <string name="aboutTheApp">The Optimum-Fuel-Predictor app is based on a Machine Learning model
+        which predicts the optimum fuel for a given flight.
+        "\n""\n"The app provides an interface to fill in the flight data and pass it to the ML model
+        through an API.
+        "\n""\n"The ML model then predicts the optimum fuel based on the given flight data and sends
+        back the result in a response.
+    </string>
+    <string name="guideText">
+        1. Fill in the values of the flight parameters.
+        "\n"2. Tap on the \"Predict\" button.
+        "\n"3. If the result shows \"Error\", make sure that you are connected to the internet.
+        "\n"4. \"Reset\" button will clear the previously entered flight data.
+        "\n"5. Some default entries are also provided in the app.
+    </string>
+
+    <string-array name="default_entries_optimum_fuel">
+        <item>None</item>
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+        <item>Entry 4</item>
+        <item>Entry 5</item>
+    </string-array>
+</resources>
