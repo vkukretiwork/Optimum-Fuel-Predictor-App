@@ -4,6 +4,8 @@ Android Application based on a Machine Learning model that predicts optimum fuel
  
 Flask-Web-App source code: https://github.com/vkukretiwork/Flask-web-app-optimum-fuel-predictor 
 
+API: https://optimumfuelvk2.onrender.com/predict
+
 
 ## Screenshots
 
